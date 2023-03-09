@@ -3,15 +3,15 @@
     <p>This is a simple Rust program that allows you to check the real-time price of various cryptocurrencies using the CoinStats API.</p>
 <h2>Usage</h2>
 
-   <ol>
+<ol>
     <li>Clone the repository to your local machine:</li>
     <pre><code>$ git clone https://github.com/codescalper/coin-prices-rust.git</code></pre>
 
     <li>Navigate to the project directory:</li>
-    <pre>`$ cd coin-prices-rust`</pre>
+    <pre><code>$ cd coin-prices-rust</code></pre>
 
     <li>Compile and run the program:</li>
-    <pre>`$ cargo run`</pre>
+    <pre><code>$ cargo run</code></pre>
 
     <li>Follow the prompts to enter the name of the cryptocurrency you want to check the price for.</li>
 </ol>
